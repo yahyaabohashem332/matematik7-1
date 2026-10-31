@@ -6,6 +6,8 @@ Seçmeli Matematik (Matematik ve Bilim Uygulamaları) 7. sınıf, öğretmenin g
 
 **Site · الموقع:** https://yahyaabohashem332.github.io/matematik7-1/
 
+**Cevap anahtarı · ورقة الأجوبة (Türkçe, kısa):** https://yahyaabohashem332.github.io/matematik7-1/cevaplar.html
+
 ## İçerik · المحتوى
 
 1. Bilgi toplama: yöntem ve aşama (Gözlem, Doğrulama)
