@@ -4,6 +4,8 @@ Seçmeli Matematik (Matematik ve Bilim Uygulamaları) 7. sınıf, öğretmenin g
 
 صفحة تفاعلية للاستعداد لامتحان الرياضيات الاختيارية (الصف السابع). الأسئلة العشرة مكتوبة بالتركية كما في ملف الأستاذ، والشرح والحل بالعربية خطوة بخطوة.
 
+**Site · الموقع:** https://yahyaabohashem332.github.io/matematik7-1/
+
 ## İçerik · المحتوى
 
 1. Bilgi toplama: yöntem ve aşama (Gözlem, Doğrulama)
